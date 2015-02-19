@@ -25,4 +25,10 @@ public class ClassA {
 	private int y;
 	private int z;
 
+
+
+public void setY(int bloop){
+	y = bloop;
+	}
+
 }
