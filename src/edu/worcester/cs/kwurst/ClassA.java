@@ -22,6 +22,7 @@ public class ClassA {
 	
 	private int a;
 	private int b;
+	private int c;
 	private int y;
 	private int z;
 
