@@ -24,5 +24,5 @@ public class ClassA {
 	private int b;
 	private int y;
 	private int z;
-
+        private int x;
 }
