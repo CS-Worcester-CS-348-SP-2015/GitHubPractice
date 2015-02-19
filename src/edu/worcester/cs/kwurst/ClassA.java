@@ -32,6 +32,9 @@ public void setY(int bloop){
 	y = bloop;
 	}
 
+public void setX(int bleeb){
+	x = bleeb;
+	}
 
 	
 	public void setA(int num){
