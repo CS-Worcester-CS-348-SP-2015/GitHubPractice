@@ -25,7 +25,8 @@ public class ClassA {
 	private int c;
 	private int y;
 	private int z;
-	
+        private int x;
+
 	public void setA(int num){
 		a = num;
 		}
