@@ -29,5 +29,8 @@ public class ClassA {
 
 	public void setA(int num){
 		a = num;
-		}
+	}
+	public int getC() {
+		return c;
+	}
 }
