@@ -14,7 +14,6 @@
  * You should have received a copy of the GNU General Public License
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA
-*/
 
 package edu.worcester.cs.kwurst;
 
@@ -25,10 +24,24 @@ public class ClassA {
 	private int c;
 	private int y;
 	private int z;
-        private int x;
+	private int x;
+
+
+
+	public void setB(int num){
+		b = num;
+	}
 
 	public void setA(int num){
 		a = num;
+	}
+	
+	public void setY(int bloop){
+		y = bloop;
+	}
+
+	public void setX(int bleeb){
+		x = bleeb;
 	}
 
 	public int getC() {
@@ -36,6 +49,11 @@ public class ClassA {
 	}
 		
 	public int getB(){
-		return b;
+	    return b;
+	}
+
+	public int getZ(){
+	    return z;
 	}
 }
+
