@@ -56,5 +56,8 @@ public void setX(int bleeb){
     public int getZ(){
 	    return z;
 	}
+public int getX(){
+return x;
+}
 }
 
