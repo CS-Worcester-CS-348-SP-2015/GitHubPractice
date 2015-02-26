@@ -42,7 +42,7 @@ public class ClassA {
 	    return b;
 	}
 
-        public int getZ(){
-	    return Z();
+    public int getZ(){
+	   return z();
 	}
 }
