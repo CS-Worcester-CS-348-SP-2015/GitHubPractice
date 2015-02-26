@@ -33,7 +33,12 @@ public class ClassA {
 	public int getC() {
 		return c;
 	}
+	
 	public int getY() {
 		return y;
 	}
+		
+	public int getB(){
+		return b;
+		}
 }
