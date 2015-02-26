@@ -22,11 +22,27 @@ public class ClassA {
 	
 	private int a;
 	private int b;
+	private int c;
 	private int y;
 	private int z;
+        private int x;
 
-public void setB(int num){
-	b = num;
+	public void setB(int num){
+		b = num;
 	}
-{
-	
+	public void setA(int num){
+		a = num;
+	}
+	public int getC() {
+		return c;
+	}
+		
+	public int getB(){
+	    return b;
+	}
+
+        public int getZ(){
+	    return Z();
+	}
+}
+
