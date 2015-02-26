@@ -28,6 +28,9 @@ public class ClassA {
 	private int x;
 
 
+	public void setB(int num){
+		b = num;
+	}
 	public void setA(int num){
 		a = num;
 	}
@@ -48,3 +51,4 @@ public class ClassA {
 	    return Z();
 	}
 }
+
