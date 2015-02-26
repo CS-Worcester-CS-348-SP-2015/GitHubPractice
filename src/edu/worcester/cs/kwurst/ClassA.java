@@ -38,17 +38,16 @@ public class ClassA {
 		a = num;
 	}
 	
-<<<<<<< HEAD
+
 	public void setZ(int num){
 		z = num; 
-=======
+
 	public void setY(int bloop){
 		y = bloop;
 	}
 
 	public void setX(int bleeb){
 		x = bleeb;
->>>>>>> 48a02cd8e8dc3bb652495af4a16d94f32df5a895
 	}
 
 	public int getC() {
