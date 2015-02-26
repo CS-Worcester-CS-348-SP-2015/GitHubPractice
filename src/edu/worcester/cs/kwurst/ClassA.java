@@ -27,7 +27,6 @@ public class ClassA {
 	private int z;
 
 
-
 public void setY(int bloop){
 	y = bloop;
 	}
@@ -36,7 +35,9 @@ public void setX(int bleeb){
 	x = bleeb;
 	}
 
-	
+
+     private int x;
+
 	public void setA(int num){
 		a = num;
 		}
