@@ -29,8 +29,16 @@ public class ClassA {
 
 	public void setA(int num){
 		a = num;
+<<<<<<< HEAD
 	}
 	public int getC() {
 		return c;
 	}
+=======
+		}
+		
+	public int getB(){
+		return b;
+		}
+>>>>>>> issue6
 }
