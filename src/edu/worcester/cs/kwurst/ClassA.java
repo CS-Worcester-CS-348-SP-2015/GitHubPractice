@@ -26,10 +26,26 @@ public class ClassA {
 	private int y;
 	private int z;
     private int x;
+	private int x;
+
+
+
+	public void setB(int num){
+		b = num;
+	}
 
 	public void setA(int num){
 		a = num;
 	}
+	
+	public void setY(int bloop){
+		y = bloop;
+	}
+
+	public void setX(int bleeb){
+		x = bleeb;
+	}
+
 	public int getC() {
 		return c;
 	}
@@ -42,7 +58,8 @@ public class ClassA {
 	    return b;
 	}
 
-    public int getZ(){
-	   return z();
+    public int getZ() {
+	    return z;
 	}
 }
+
