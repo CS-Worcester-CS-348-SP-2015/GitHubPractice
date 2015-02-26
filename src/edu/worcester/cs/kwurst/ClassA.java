@@ -29,4 +29,6 @@ public class ClassA {
 	public void setA(int num){
 		a = num;
 		}
+		public int getZ(){
+		return Z();}
 }
