@@ -61,5 +61,8 @@ public class ClassA {
     public int getZ() {
 	    return z;
 	}
+public int getX(){
+return x;
+}
 }
 
